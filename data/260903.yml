@@ -1,0 +1,60 @@
+about:
+  description: CLI for Foodora and Deliveroo
+  license: MIT
+  homepage: https://ordercli.sh
+  head: 38b362d
+  archived: false
+  latestVersion: v0.1.0
+  collectedAt: 2026-09-03T04:54:58Z
+timeline:
+  created: 2025-12-19
+  lastCommit: 2026-08-31
+  lastRelease: 2025-12-20
+popularity:
+  star: 79
+  watcher: 1
+  fork: 16
+  release: 1
+  contributor: 3
+  pullRequest: 2
+  issue: 3
+language:
+  Go: 256335
+  JavaScript: 14292
+  Dockerfile: 1037
+  Shell: 414
+  Makefile: 214
+totalLine: 272292
+recent:
+  last30d:
+    since: 2026-08-04
+    release: 0
+    mergedPR: 1
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 1
+  last90d:
+    since: 2026-06-05
+    release: 0
+    mergedPR: 3
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 4
+  last180d:
+    since: 2026-03-07
+    release: 0
+    mergedPR: 3
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 11
+  last360d:
+    since: 2025-09-08
+    release: 1
+    mergedPR: 5
+    openPR: 0
+    closedIssue: 3
+    openIssue: 0
+    commit: 61
