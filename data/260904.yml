@@ -7,7 +7,7 @@ about:
   head: 94c0ca8
   archived: false
   latestVersion: v0.1.0
-  collectedAt: 2026-09-04T19:58:02Z
+  collectedAt: 2026-09-04T20:44:15Z
 timeline:
   created: 2025-12-19
   lastCommit: 2026-09-04
@@ -84,5 +84,43 @@ total:
   openIssue: 0
   commit: 62
 ---
+path: /home/runner/.x-repo/github.com/steipete/ordercli
+collectedAt: 2026-09-04T20:44:16Z
+loc:
+  Go:
+    code: 8469
+    comments: 117
+    blanks: 1115
+    files: 79
+  JavaScript:
+    code: 393
+    comments: 6
+    blanks: 47
+    files: 3
+  Dockerfile:
+    code: 29
+    comments: 1
+    blanks: 3
+    files: 1
+  Sh:
+    code: 15
+    comments: 1
+    blanks: 4
+    files: 1
+  Makefile:
+    code: 10
+    comments: 0
+    blanks: 4
+    files: 1
+  Markdown:
+    code: 0
+    comments: 250
+    blanks: 81
+    files: 5
+total:
+  code: 8916
+  comments: 375
+  blanks: 1254
+  files: 90
 ---
 
