@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 2738076,
       "digest": "sha256:79935b51987329bf8df069ce39d6578044b33b304e3c0d5bc0b85c8f15f03ee8",
-      "download_count": 88485,
+      "download_count": 88492,
       "created_at": "2025-12-20T17:55:37Z",
       "updated_at": "2025-12-20T17:55:37Z",
       "browser_download_url": "https://github.com/steipete/ordercli/releases/download/v0.1.0/ordercli_0.1.0_darwin_arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 2882660,
       "digest": "sha256:6793d65f60e3a143d37f6c6b87b49c5ad50d474ff25a063ef1e2cc5ca159316b",
-      "download_count": 25687,
+      "download_count": 25691,
       "created_at": "2025-12-20T17:55:37Z",
       "updated_at": "2025-12-20T17:55:37Z",
       "browser_download_url": "https://github.com/steipete/ordercli/releases/download/v0.1.0/ordercli_0.1.0_linux_amd64.tar.gz"
