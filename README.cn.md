@@ -4,13 +4,25 @@
 
 CLI for Foodora and Deliveroo
 
-![ordercli](https://repo.x-cmd.io/ordercli.svg)
+![ordercli](https://repo.x-cmd.io/ordercli.svg?lang=zh)
 
 ## 安装
 
 ```sh
 x install ordercli
 ```
+
+## 代码洞察
+
+合计: **8,916** 行代码（覆盖前 5 种语言、共 **85** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Go | 8,469 | 117 | 1,115 | 79 |
+| JavaScript | 393 | 6 | 47 | 3 |
+| Dockerfile | 29 | 1 | 3 | 1 |
+| Sh | 15 | 1 | 4 | 1 |
+| Makefile | 10 | 0 | 4 | 1 |
 
 ## 源代码
 
@@ -23,7 +35,6 @@ x install ordercli
 - **最新版本**: `v0.1.0` (2025-12-20)
 - **最近提交**: 2026-09-04
 - **Release 含资产**: 6 个
-- **发布时间**: 2025-12-20T17:55:38Z
 
 ## 流行度
 
@@ -38,20 +49,22 @@ x install ordercli
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 2 | 0 | 0 | 0 | 2 |
+| last60d | 2026-07-12 | 0 | 3 | 0 | 0 | 0 | 3 |
 | 90d | 2026-06-12 | 0 | 4 | 0 | 0 | 0 | 5 |
+| last180d | 2026-03-14 | 0 | 4 | 0 | 0 | 0 | 12 |
 | 360d | 2025-09-15 | 1 | 6 | 0 | 3 | 0 | 62 |
+| last720d | 2024-09-20 | 1 | 6 | 0 | 3 | 0 | 62 |
 
-## 代码规模
+## Release 资产
 
-合计: **8,916** 行代码（覆盖前 5 种语言、共 **85** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Go | 8,469 | 117 | 1,115 | 79 |
-| JavaScript | 393 | 6 | 47 | 3 |
-| Dockerfile | 29 | 1 | 3 | 1 |
-| Sh | 15 | 1 | 4 | 1 |
-| Makefile | 10 | 0 | 4 | 1 |
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [checksums.txt](https://github.com/steipete/ordercli/releases/download/v0.1.0/checksums.txt) | 501 B | `other` |
+| [ordercli_0.1.0_darwin_amd64.tar.gz](https://github.com/steipete/ordercli/releases/download/v0.1.0/ordercli_0.1.0_darwin_amd64.tar.gz) | 2.8 MiB | `native/darwin/x64` |
+| [ordercli_0.1.0_darwin_arm64.tar.gz](https://github.com/steipete/ordercli/releases/download/v0.1.0/ordercli_0.1.0_darwin_arm64.tar.gz) | 2.6 MiB | `native/darwin/arm64` |
+| [ordercli_0.1.0_linux_amd64.tar.gz](https://github.com/steipete/ordercli/releases/download/v0.1.0/ordercli_0.1.0_linux_amd64.tar.gz) | 2.7 MiB | `native/linux/x64` |
+| [ordercli_0.1.0_linux_arm64.tar.gz](https://github.com/steipete/ordercli/releases/download/v0.1.0/ordercli_0.1.0_linux_arm64.tar.gz) | 2.5 MiB | `native/linux/arm64` |
+| [ordercli_0.1.0_windows_amd64.zip](https://github.com/steipete/ordercli/releases/download/v0.1.0/ordercli_0.1.0_windows_amd64.zip) | 2.8 MiB | `native/win/x64` |
 
 ## 改进这些数据
 
@@ -62,4 +75,4 @@ ordercli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:51:21Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T23:44:16Z._
