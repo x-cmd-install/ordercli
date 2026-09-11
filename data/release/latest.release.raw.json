@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 501,
       "digest": "sha256:ba8058811d53bcfc25766447a343cd2dc89727e2c7caaa06ab141c60a5950717",
-      "download_count": 25,
+      "download_count": 26,
       "created_at": "2025-12-20T17:55:37Z",
       "updated_at": "2025-12-20T17:55:38Z",
       "browser_download_url": "https://github.com/steipete/ordercli/releases/download/v0.1.0/checksums.txt"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 2738076,
       "digest": "sha256:79935b51987329bf8df069ce39d6578044b33b304e3c0d5bc0b85c8f15f03ee8",
-      "download_count": 88505,
+      "download_count": 88513,
       "created_at": "2025-12-20T17:55:37Z",
       "updated_at": "2025-12-20T17:55:37Z",
       "browser_download_url": "https://github.com/steipete/ordercli/releases/download/v0.1.0/ordercli_0.1.0_darwin_arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 2882660,
       "digest": "sha256:6793d65f60e3a143d37f6c6b87b49c5ad50d474ff25a063ef1e2cc5ca159316b",
-      "download_count": 25698,
+      "download_count": 25701,
       "created_at": "2025-12-20T17:55:37Z",
       "updated_at": "2025-12-20T17:55:37Z",
       "browser_download_url": "https://github.com/steipete/ordercli/releases/download/v0.1.0/ordercli_0.1.0_linux_amd64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 2982181,
       "digest": "sha256:14c8f972a2610af4b985f7a41b34c56c7702ac85c20cc96ef5ac5acc3891aec4",
-      "download_count": 64,
+      "download_count": 65,
       "created_at": "2025-12-20T17:55:37Z",
       "updated_at": "2025-12-20T17:55:38Z",
       "browser_download_url": "https://github.com/steipete/ordercli/releases/download/v0.1.0/ordercli_0.1.0_windows_amd64.zip"

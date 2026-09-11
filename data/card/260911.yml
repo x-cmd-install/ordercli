@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.1.0"
   latestRelease: "v0.1.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T05:46:25Z
+  collectedAt: 2026-09-11T19:06:41Z
 timeline:
   created: 2025-12-19
   lastCommit: 2026-09-04
@@ -37,7 +37,7 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 2
+    commit: 0
   last60d:
     since: 2026-07-13
     release: 0
@@ -45,7 +45,7 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 3
+    commit: 0
   last90d:
     since: 2026-06-13
     release: 0
@@ -53,7 +53,7 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 5
+    commit: 0
   last180d:
     since: 2026-03-15
     release: 0
@@ -61,7 +61,7 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 12
+    commit: 0
   last360d:
     since: 2025-09-16
     release: 1
@@ -69,7 +69,7 @@ recent:
     openPR: 0
     closedIssue: 3
     openIssue: 0
-    commit: 62
+    commit: 0
   last720d:
     since: 2024-09-21
     release: 1
@@ -87,7 +87,7 @@ total:
   commit: 62
 ---
 path: /home/runner/.x-repo/github.com/steipete/ordercli
-collectedAt: 2026-09-11T05:46:25Z
+collectedAt: 2026-09-11T19:06:43Z
 loc:
   Go:
     code: 8469
