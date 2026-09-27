@@ -38,7 +38,7 @@ Total: **9,019** lines of code across **87** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 81 · **Forks**: 16 · **Open issues**: 3 · **Contributors**: 3
+- **Stars**: 81 · **Forks**: 17 · **Open issues**: 3 · **Contributors**: 3
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **9,019** lines of code across **87** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-27 | 2 | 5 | 0 | 0 | 0 | 7 |
-| last60d | 2026-07-28 | 2 | 5 | 0 | 0 | 0 | 8 |
-| 90d | 2026-06-28 | 2 | 7 | 0 | 0 | 0 | 10 |
-| last180d | 2026-03-30 | 2 | 7 | 0 | 0 | 0 | 17 |
-| 360d | 2025-10-01 | 3 | 9 | 0 | 3 | 0 | 67 |
-| last720d | 2024-10-06 | 3 | 9 | 0 | 3 | 0 | 67 |
+| 30d | 2026-08-28 | 2 | 5 | 0 | 0 | 0 | 6 |
+| last60d | 2026-07-29 | 2 | 5 | 0 | 0 | 0 | 8 |
+| 90d | 2026-06-29 | 2 | 7 | 0 | 0 | 0 | 9 |
+| last180d | 2026-03-31 | 2 | 7 | 0 | 0 | 0 | 17 |
+| 360d | 2025-10-02 | 3 | 9 | 0 | 3 | 0 | 67 |
+| last720d | 2024-10-07 | 3 | 9 | 0 | 3 | 0 | 67 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for ordercli lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260926.yml` · 2026-09-26T05:51:49Z._
+_Snapshot: `data/card/260927.yml` · 2026-09-27T06:13:50Z._
