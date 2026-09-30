@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1673,
       "digest": "sha256:c3b8baf306c93f166805bed4abbced54a8947e05666a46036703faffe445c635",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-09-14T15:32:48Z",
       "updated_at": "2026-09-14T15:32:48Z",
       "browser_download_url": "https://github.com/steipete/ordercli/releases/download/v0.2.1/ASSET-INVENTORY.json"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 858,
       "digest": "sha256:e7dd4180498df5851ba940c1cfd9dff27ec9e57379c0606398e723861b17a400",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-09-14T15:32:50Z",
       "updated_at": "2026-09-14T15:32:50Z",
       "browser_download_url": "https://github.com/steipete/ordercli/releases/download/v0.2.1/checksums.txt"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 3408415,
       "digest": "sha256:add7ddb96a64cf85bbcf35d52d35ee67b632aae021530bccd9948b7466ca7d9b",
-      "download_count": 69,
+      "download_count": 70,
       "created_at": "2026-09-14T15:32:50Z",
       "updated_at": "2026-09-14T15:32:51Z",
       "browser_download_url": "https://github.com/steipete/ordercli/releases/download/v0.2.1/ordercli_0.2.1_darwin_amd64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 3063569,
       "digest": "sha256:a5c9d177caf5ac4f19e69eab445ecf05b2418ea8a1efec21412ad3c4de4f17ec",
-      "download_count": 888,
+      "download_count": 921,
       "created_at": "2026-09-14T15:32:51Z",
       "updated_at": "2026-09-14T15:32:51Z",
       "browser_download_url": "https://github.com/steipete/ordercli/releases/download/v0.2.1/ordercli_0.2.1_darwin_arm64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 3298880,
       "digest": "sha256:6727aff064b73783cc04b44ace644696ced331f75624a9f5abb723463adb0fbc",
-      "download_count": 136,
+      "download_count": 142,
       "created_at": "2026-09-14T15:32:52Z",
       "updated_at": "2026-09-14T15:32:52Z",
       "browser_download_url": "https://github.com/steipete/ordercli/releases/download/v0.2.1/ordercli_0.2.1_linux_amd64.tar.gz"
