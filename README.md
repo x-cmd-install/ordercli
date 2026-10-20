@@ -14,11 +14,11 @@ x install ordercli
 
 ## Code insight
 
-Total: **9,019** lines of code across **87** files in the top 5 languages.
+Total: **9,022** lines of code across **87** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 8,495 | 117 | 1,118 | 79 |
+| Go | 8,498 | 117 | 1,118 | 79 |
 | JavaScript | 393 | 6 | 47 | 3 |
 | Python | 72 | 2 | 18 | 3 |
 | Dockerfile | 29 | 1 | 3 | 1 |
@@ -33,7 +33,7 @@ Total: **9,019** lines of code across **87** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.2.1` (2026-09-14)
-- **Last commit**: 2026-09-14
+- **Last commit**: 2026-10-19
 - **Assets in release**: 10
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **9,019** lines of code across **87** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 3 · **Merged PRs**: 9 · **Open PRs**: 0 · **Closed issues**: 3 · **Open issues**: 0 · **Commits**: 67
+- **Releases**: 3 · **Merged PRs**: 10 · **Open PRs**: 0 · **Closed issues**: 3 · **Open issues**: 0 · **Commits**: 68
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-20 | 2 | 5 | 0 | 0 | 0 | 7 |
-| 90d | 2026-07-21 | 2 | 5 | 0 | 0 | 0 | 8 |
-| last180d | 2026-04-22 | 2 | 7 | 0 | 0 | 0 | 17 |
-| 360d | 2025-10-24 | 3 | 9 | 0 | 3 | 0 | 67 |
-| last720d | 2024-10-29 | 3 | 9 | 0 | 3 | 0 | 67 |
+| 30d | 2026-09-20 | 0 | 1 | 0 | 0 | 0 | 1 |
+| last60d | 2026-08-21 | 2 | 6 | 0 | 0 | 0 | 8 |
+| 90d | 2026-07-22 | 2 | 6 | 0 | 0 | 0 | 9 |
+| last180d | 2026-04-23 | 2 | 8 | 0 | 0 | 0 | 18 |
+| 360d | 2025-10-25 | 3 | 10 | 0 | 3 | 0 | 68 |
+| last720d | 2024-10-30 | 3 | 10 | 0 | 3 | 0 | 68 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for ordercli lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261019.yml` · 2026-10-19T05:29:34Z._
+_Snapshot: `data/card/261020.yml` · 2026-10-20T05:44:48Z._
