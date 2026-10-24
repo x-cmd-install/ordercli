@@ -14,11 +14,11 @@ x install ordercli
 
 ## 代码洞察
 
-合计: **9,022** 行代码（覆盖前 5 种语言、共 **87** 个文件）。
+合计: **9,153** 行代码（覆盖前 5 种语言、共 **88** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 8,498 | 117 | 1,118 | 79 |
+| Go | 8,629 | 117 | 1,124 | 80 |
 | JavaScript | 393 | 6 | 47 | 3 |
 | Python | 72 | 2 | 18 | 3 |
 | Dockerfile | 29 | 1 | 3 | 1 |
@@ -32,43 +32,43 @@ x install ordercli
 
 ## 发布
 
-- **最新版本**: `v0.2.2` (2026-10-21)
-- **最近提交**: 2026-10-21
+- **最新版本**: `v0.2.3` (2026-10-24)
+- **最近提交**: 2026-10-24
 - **Release 含资产**: 10 个
 
 ## 流行度
 
-- **Star**: 84 · **Fork**: 17 · **开放 issue**: 3 · **贡献者**: 3
+- **Star**: 83 · **Fork**: 17 · **开放 issue**: 3 · **贡献者**: 4
 
 ## 累计统计
 
-- **发布数**: 4 · **已合并 PR**: 11 · **开放 PR**: 1 · **已关闭 issue**: 3 · **开放 issue**: 0 · **提交数**: 69
+- **发布数**: 5 · **已合并 PR**: 13 · **开放 PR**: 0 · **已关闭 issue**: 3 · **开放 issue**: 0 · **提交数**: 71
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 1 | 2 | 1 | 0 | 0 | 2 |
-| last60d | 2026-08-24 | 3 | 7 | 1 | 0 | 0 | 9 |
-| 90d | 2026-07-25 | 3 | 7 | 1 | 0 | 0 | 10 |
-| last180d | 2026-04-26 | 3 | 9 | 1 | 0 | 0 | 19 |
-| 360d | 2025-10-28 | 4 | 11 | 1 | 3 | 0 | 69 |
-| last720d | 2024-11-02 | 4 | 11 | 1 | 3 | 0 | 69 |
+| 30d | 2026-09-24 | 2 | 4 | 0 | 0 | 0 | 4 |
+| last60d | 2026-08-25 | 4 | 9 | 0 | 0 | 0 | 11 |
+| 90d | 2026-07-26 | 4 | 9 | 0 | 0 | 0 | 12 |
+| last180d | 2026-04-27 | 4 | 11 | 0 | 0 | 0 | 21 |
+| 360d | 2025-10-29 | 5 | 13 | 0 | 3 | 0 | 71 |
+| last720d | 2024-11-03 | 5 | 13 | 0 | 3 | 0 | 71 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [ASSET-INVENTORY.json](https://github.com/steipete/ordercli/releases/download/v0.2.2/ASSET-INVENTORY.json) | 1.6 KiB | `other` |
-| [checksums.txt](https://github.com/steipete/ordercli/releases/download/v0.2.2/checksums.txt) | 858 B | `other` |
-| [ordercli_0.2.2_darwin_amd64.tar.gz](https://github.com/steipete/ordercli/releases/download/v0.2.2/ordercli_0.2.2_darwin_amd64.tar.gz) | 3.3 MiB | `native/darwin/x64` |
-| [ordercli_0.2.2_darwin_arm64.tar.gz](https://github.com/steipete/ordercli/releases/download/v0.2.2/ordercli_0.2.2_darwin_arm64.tar.gz) | 2.9 MiB | `native/darwin/arm64` |
-| [ordercli_0.2.2_linux_amd64.tar.gz](https://github.com/steipete/ordercli/releases/download/v0.2.2/ordercli_0.2.2_linux_amd64.tar.gz) | 3.2 MiB | `native/linux/x64` |
-| [ordercli_0.2.2_linux_arm64.tar.gz](https://github.com/steipete/ordercli/releases/download/v0.2.2/ordercli_0.2.2_linux_arm64.tar.gz) | 2.8 MiB | `native/linux/arm64` |
-| [ordercli_0.2.2_windows_amd64.zip](https://github.com/steipete/ordercli/releases/download/v0.2.2/ordercli_0.2.2_windows_amd64.zip) | 3.2 MiB | `native/win/x64` |
-| [ordercli_0.2.2_windows_arm64.zip](https://github.com/steipete/ordercli/releases/download/v0.2.2/ordercli_0.2.2_windows_arm64.zip) | 2.9 MiB | `native/win/arm64` |
-| [RELEASE-NOTES.md](https://github.com/steipete/ordercli/releases/download/v0.2.2/RELEASE-NOTES.md) | 444 B | `other` |
-| [SIGNING-MANIFEST.json](https://github.com/steipete/ordercli/releases/download/v0.2.2/SIGNING-MANIFEST.json) | 1.2 KiB | `other` |
+| [ASSET-INVENTORY.json](https://github.com/steipete/ordercli/releases/download/v0.2.3/ASSET-INVENTORY.json) | 1.6 KiB | `other` |
+| [checksums.txt](https://github.com/steipete/ordercli/releases/download/v0.2.3/checksums.txt) | 858 B | `other` |
+| [ordercli_0.2.3_darwin_amd64.tar.gz](https://github.com/steipete/ordercli/releases/download/v0.2.3/ordercli_0.2.3_darwin_amd64.tar.gz) | 3.3 MiB | `native/darwin/x64` |
+| [ordercli_0.2.3_darwin_arm64.tar.gz](https://github.com/steipete/ordercli/releases/download/v0.2.3/ordercli_0.2.3_darwin_arm64.tar.gz) | 2.9 MiB | `native/darwin/arm64` |
+| [ordercli_0.2.3_linux_amd64.tar.gz](https://github.com/steipete/ordercli/releases/download/v0.2.3/ordercli_0.2.3_linux_amd64.tar.gz) | 3.2 MiB | `native/linux/x64` |
+| [ordercli_0.2.3_linux_arm64.tar.gz](https://github.com/steipete/ordercli/releases/download/v0.2.3/ordercli_0.2.3_linux_arm64.tar.gz) | 2.8 MiB | `native/linux/arm64` |
+| [ordercli_0.2.3_windows_amd64.zip](https://github.com/steipete/ordercli/releases/download/v0.2.3/ordercli_0.2.3_windows_amd64.zip) | 3.2 MiB | `native/win/x64` |
+| [ordercli_0.2.3_windows_arm64.zip](https://github.com/steipete/ordercli/releases/download/v0.2.3/ordercli_0.2.3_windows_arm64.zip) | 2.9 MiB | `native/win/arm64` |
+| [RELEASE-NOTES.md](https://github.com/steipete/ordercli/releases/download/v0.2.3/RELEASE-NOTES.md) | 288 B | `other` |
+| [SIGNING-MANIFEST.json](https://github.com/steipete/ordercli/releases/download/v0.2.3/SIGNING-MANIFEST.json) | 1.2 KiB | `other` |
 
 ## 改进这些数据
 
@@ -79,4 +79,4 @@ ordercli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261023.yml` · 2026-10-23T05:39:09Z._
+_数据快照: `data/card/261024.yml` · 2026-10-24T05:25:56Z._
