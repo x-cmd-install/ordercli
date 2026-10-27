@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 3415373,
       "digest": "sha256:5fffa3ac530dee074ce110a4a6ad7cc8539b87046646c48bc1234c836b58fd86",
-      "download_count": 16,
+      "download_count": 19,
       "created_at": "2026-10-24T01:27:43Z",
       "updated_at": "2026-10-24T01:27:43Z",
       "browser_download_url": "https://github.com/steipete/ordercli/releases/download/v0.2.3/ordercli_0.2.3_darwin_amd64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 3037434,
       "digest": "sha256:44e0a796a038e65c794bd29c11c0ceb514ad5698f26d2139fe7c5cf9d4c1ad32",
-      "download_count": 347,
+      "download_count": 464,
       "created_at": "2026-10-24T01:27:44Z",
       "updated_at": "2026-10-24T01:27:45Z",
       "browser_download_url": "https://github.com/steipete/ordercli/releases/download/v0.2.3/ordercli_0.2.3_darwin_arm64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 3305978,
       "digest": "sha256:52bafb42a3f5599f05bfe03c6d5b0a99cc9d42ed15f918c17e10ee0b58250d1e",
-      "download_count": 22,
+      "download_count": 33,
       "created_at": "2026-10-24T01:27:45Z",
       "updated_at": "2026-10-24T01:27:46Z",
       "browser_download_url": "https://github.com/steipete/ordercli/releases/download/v0.2.3/ordercli_0.2.3_linux_amd64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 2966938,
       "digest": "sha256:b1b63b5097d861a207fc1bef72aeb81eca8a036b613c12283a7ed659851ef8a6",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2026-10-24T01:27:46Z",
       "updated_at": "2026-10-24T01:27:46Z",
       "browser_download_url": "https://github.com/steipete/ordercli/releases/download/v0.2.3/ordercli_0.2.3_linux_arm64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 3406359,
       "digest": "sha256:aea6cef6849ee75050b2fae4cea7e6577907049f34a96d50a45c15b7552014d7",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-10-24T01:27:47Z",
       "updated_at": "2026-10-24T01:27:47Z",
       "browser_download_url": "https://github.com/steipete/ordercli/releases/download/v0.2.3/ordercli_0.2.3_windows_amd64.zip"
