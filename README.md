@@ -14,12 +14,12 @@ x install ordercli
 
 ## Code insight
 
-Total: **9,153** lines of code across **88** files in the top 5 languages.
+Total: **9,394** lines of code across **89** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 8,629 | 117 | 1,124 | 80 |
-| JavaScript | 393 | 6 | 47 | 3 |
+| Go | 8,853 | 116 | 1,139 | 81 |
+| JavaScript | 410 | 7 | 48 | 3 |
 | Python | 72 | 2 | 18 | 3 |
 | Dockerfile | 29 | 1 | 3 | 1 |
 | Sh | 20 | 1 | 3 | 1 |
@@ -33,27 +33,27 @@ Total: **9,153** lines of code across **88** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.2.3` (2026-10-24)
-- **Last commit**: 2026-10-24
+- **Last commit**: 2026-11-14
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 85 · **Forks**: 17 · **Open issues**: 3 · **Contributors**: 4
+- **Stars**: 86 · **Forks**: 17 · **Open issues**: 3 · **Contributors**: 4
 
 ## Totals (cumulative)
 
-- **Releases**: 5 · **Merged PRs**: 13 · **Open PRs**: 3 · **Closed issues**: 3 · **Open issues**: 0 · **Commits**: 71
+- **Releases**: 5 · **Merged PRs**: 14 · **Open PRs**: 0 · **Closed issues**: 3 · **Open issues**: 0 · **Commits**: 72
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 2 | 4 | 3 | 0 | 0 | 4 |
-| last60d | 2026-09-15 | 2 | 4 | 3 | 0 | 0 | 4 |
-| 90d | 2026-08-16 | 4 | 9 | 3 | 0 | 0 | 11 |
-| last180d | 2026-05-18 | 4 | 11 | 3 | 0 | 0 | 14 |
-| 360d | 2025-11-19 | 5 | 13 | 3 | 3 | 0 | 71 |
-| last720d | 2024-11-24 | 5 | 13 | 3 | 3 | 0 | 71 |
+| 30d | 2026-10-16 | 2 | 5 | 0 | 0 | 0 | 5 |
+| last60d | 2026-09-16 | 2 | 5 | 0 | 0 | 0 | 5 |
+| 90d | 2026-08-17 | 4 | 10 | 0 | 0 | 0 | 12 |
+| last180d | 2026-05-19 | 4 | 12 | 0 | 0 | 0 | 15 |
+| 360d | 2025-11-20 | 5 | 14 | 0 | 3 | 0 | 72 |
+| last720d | 2024-11-25 | 5 | 14 | 0 | 3 | 0 | 72 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for ordercli lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T07:55:58Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T07:47:03Z._
