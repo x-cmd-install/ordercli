@@ -32,8 +32,8 @@ Total: **9,394** lines of code across **89** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.2.3` (2026-10-24)
-- **Last commit**: 2026-11-14
+- **Latest**: `v0.2.4` (2026-11-16)
+- **Last commit**: 2026-11-16
 - **Assets in release**: 10
 
 ## Popularity
@@ -42,33 +42,33 @@ Total: **9,394** lines of code across **89** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 5 · **Merged PRs**: 14 · **Open PRs**: 0 · **Closed issues**: 3 · **Open issues**: 0 · **Commits**: 72
+- **Releases**: 6 · **Merged PRs**: 16 · **Open PRs**: 0 · **Closed issues**: 3 · **Open issues**: 0 · **Commits**: 74
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 2 | 5 | 0 | 0 | 0 | 5 |
-| last60d | 2026-09-16 | 2 | 5 | 0 | 0 | 0 | 5 |
-| 90d | 2026-08-17 | 4 | 10 | 0 | 0 | 0 | 12 |
-| last180d | 2026-05-19 | 4 | 12 | 0 | 0 | 0 | 15 |
-| 360d | 2025-11-20 | 5 | 14 | 0 | 3 | 0 | 72 |
-| last720d | 2024-11-25 | 5 | 14 | 0 | 3 | 0 | 72 |
+| 30d | 2026-10-17 | 3 | 7 | 0 | 0 | 0 | 5 |
+| last60d | 2026-09-17 | 3 | 7 | 0 | 0 | 0 | 7 |
+| 90d | 2026-08-18 | 5 | 12 | 0 | 0 | 0 | 14 |
+| last180d | 2026-05-20 | 5 | 14 | 0 | 0 | 0 | 17 |
+| 360d | 2025-11-21 | 6 | 16 | 0 | 3 | 0 | 74 |
+| last720d | 2024-11-26 | 6 | 16 | 0 | 3 | 0 | 74 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [ASSET-INVENTORY.json](https://github.com/steipete/ordercli/releases/download/v0.2.3/ASSET-INVENTORY.json) | 1.6 KiB | `other` |
-| [checksums.txt](https://github.com/steipete/ordercli/releases/download/v0.2.3/checksums.txt) | 858 B | `other` |
-| [ordercli_0.2.3_darwin_amd64.tar.gz](https://github.com/steipete/ordercli/releases/download/v0.2.3/ordercli_0.2.3_darwin_amd64.tar.gz) | 3.3 MiB | `native/darwin/x64` |
-| [ordercli_0.2.3_darwin_arm64.tar.gz](https://github.com/steipete/ordercli/releases/download/v0.2.3/ordercli_0.2.3_darwin_arm64.tar.gz) | 2.9 MiB | `native/darwin/arm64` |
-| [ordercli_0.2.3_linux_amd64.tar.gz](https://github.com/steipete/ordercli/releases/download/v0.2.3/ordercli_0.2.3_linux_amd64.tar.gz) | 3.2 MiB | `native/linux/x64` |
-| [ordercli_0.2.3_linux_arm64.tar.gz](https://github.com/steipete/ordercli/releases/download/v0.2.3/ordercli_0.2.3_linux_arm64.tar.gz) | 2.8 MiB | `native/linux/arm64` |
-| [ordercli_0.2.3_windows_amd64.zip](https://github.com/steipete/ordercli/releases/download/v0.2.3/ordercli_0.2.3_windows_amd64.zip) | 3.2 MiB | `native/win/x64` |
-| [ordercli_0.2.3_windows_arm64.zip](https://github.com/steipete/ordercli/releases/download/v0.2.3/ordercli_0.2.3_windows_arm64.zip) | 2.9 MiB | `native/win/arm64` |
-| [RELEASE-NOTES.md](https://github.com/steipete/ordercli/releases/download/v0.2.3/RELEASE-NOTES.md) | 288 B | `other` |
-| [SIGNING-MANIFEST.json](https://github.com/steipete/ordercli/releases/download/v0.2.3/SIGNING-MANIFEST.json) | 1.2 KiB | `other` |
+| [ASSET-INVENTORY.json](https://github.com/steipete/ordercli/releases/download/v0.2.4/ASSET-INVENTORY.json) | 1.6 KiB | `other` |
+| [checksums.txt](https://github.com/steipete/ordercli/releases/download/v0.2.4/checksums.txt) | 858 B | `other` |
+| [ordercli_0.2.4_darwin_amd64.tar.gz](https://github.com/steipete/ordercli/releases/download/v0.2.4/ordercli_0.2.4_darwin_amd64.tar.gz) | 3.3 MiB | `native/darwin/x64` |
+| [ordercli_0.2.4_darwin_arm64.tar.gz](https://github.com/steipete/ordercli/releases/download/v0.2.4/ordercli_0.2.4_darwin_arm64.tar.gz) | 2.9 MiB | `native/darwin/arm64` |
+| [ordercli_0.2.4_linux_amd64.tar.gz](https://github.com/steipete/ordercli/releases/download/v0.2.4/ordercli_0.2.4_linux_amd64.tar.gz) | 3.2 MiB | `native/linux/x64` |
+| [ordercli_0.2.4_linux_arm64.tar.gz](https://github.com/steipete/ordercli/releases/download/v0.2.4/ordercli_0.2.4_linux_arm64.tar.gz) | 2.8 MiB | `native/linux/arm64` |
+| [ordercli_0.2.4_windows_amd64.zip](https://github.com/steipete/ordercli/releases/download/v0.2.4/ordercli_0.2.4_windows_amd64.zip) | 3.3 MiB | `native/win/x64` |
+| [ordercli_0.2.4_windows_arm64.zip](https://github.com/steipete/ordercli/releases/download/v0.2.4/ordercli_0.2.4_windows_arm64.zip) | 2.9 MiB | `native/win/arm64` |
+| [RELEASE-NOTES.md](https://github.com/steipete/ordercli/releases/download/v0.2.4/RELEASE-NOTES.md) | 422 B | `other` |
+| [SIGNING-MANIFEST.json](https://github.com/steipete/ordercli/releases/download/v0.2.4/SIGNING-MANIFEST.json) | 1.2 KiB | `other` |
 
 ## Improve this data
 
@@ -79,4 +79,4 @@ Install metadata for ordercli lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T07:47:03Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T08:03:15Z._
